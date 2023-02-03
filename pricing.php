@@ -1,11 +1,11 @@
 <!doctype html>
 <html lang="en">
 <head>
-    <? include 'vendor/head.php';?>
+    <?php include 'vendor/head.php';?>
     <title>Document</title>
 </head>
 <body>
-<?
+<?php
     include 'vendor/navbar.php';
 ?>
 <main id="main">
@@ -178,7 +178,7 @@
     </section><!-- End Frequently Asked Questions Section -->
 
 </main>
-<?
+<?php
     include 'vendor/foother.php';
 ?>
 </body>
